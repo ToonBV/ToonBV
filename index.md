@@ -11,8 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# ความสามารถของผู้สร้าง 
+สามารถเขียนภาษา C, Java 
+สามารถลงวินโดวส์ 10
+
+สิ่งที่ได้จากวิชา
+ได้เรียนรู้เกี่ยวกับ UX/UI
+ได้ลองสร้างเว็บเพจบน github
+เข้าใจเกี่ยวกับ html มากขึ้น
 ### Header 3
 
 - Bulleted
